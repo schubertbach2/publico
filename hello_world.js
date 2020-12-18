@@ -14,3 +14,4 @@ fetch("hello_world.wasm")
         let exports = result.instance.exports;
         exports.hello_world();
     })
+//hola mundo de js  aprendo
